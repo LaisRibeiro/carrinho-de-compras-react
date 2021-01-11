@@ -14,6 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `Sobre o projeto`
+
+Tem um bug, acredito que seja do próprio react que não consegui resolver a tempo, no filtro da categoria, ele pega o dado "atrasado" então para fazer a primeira seleção é necessário clicar duas vezes na opção, depois disso ele pega o select normalmente.
+
+Não consegui fazer a parte do número de produtos no carrinho do header e nem os botões para acrescentar e remover na tela de finalizar compra.
+
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
