@@ -1,0 +1,149 @@
+{
+    "produto":
+    [
+        {
+            "id": 0,
+            "idCategoria": 0,
+            "name": "Coca-Cola Lata",
+            "descripition": "Coca-Cola Lata 350ml",
+            "price": 3.50,
+            "image": ""
+        },
+        {
+            "id": 1,
+            "idCategoria": 0,
+            "name": "Fanta Uva Lata",
+            "descripition": "Fanta Uva Lata 350ml",
+            "price": 3.00,
+            "image": ""
+        }, 
+        {
+            "id": 2,
+            "idCategoria": 0,
+            "name": "Fanta Laranja Lata",
+            "descripition": "Fanta Laranja Lata 350ml",
+            "price": 3.00,
+            "image": ""
+        },
+        {
+            "id": 3,
+            "idCategoria": 0,
+            "name": "Guaraná Lata",
+            "descripition": "Guaraná Lata 350ml",
+            "price": 3.50,
+            "image": ""
+        }, 
+        {
+            "id": 4,
+            "idCategoria": 0,
+            "name": "Coca-Cola Zero Lata",
+            "descripition": "Coca-Cola Zero Lata 350ml",
+            "price": 3.75,
+            "image": ""
+        }, 
+        {
+            "id": 5,
+            "idCategoria": 0,
+            "name": "Água Mineral",
+            "descripition": "Água Mineral 500ml",
+            "price": 2.30,
+            "image": ""
+        },
+        {
+            "id": 6,
+            "idCategoria": 0,
+            "name": "Água Mineral com Gás",
+            "descripition": "Água Mineral com Gás 500ml",
+            "price": 2.75,
+            "image": ""
+        },
+        {
+            "id": 7,
+            "idCategoria": 1,
+            "name": "Bolo de Pote",
+            "descripition": "Bolo de Pote sabor chocolate com branquinho",
+            "price": 4.75,
+            "image": ""
+        }, 
+        {
+            "id": 8,
+            "idCategoria": 1,
+            "name": "Açaí",
+            "descripition": "Açaí com morango e banana picados 400ml",
+            "price": 10.50,
+            "image": ""
+        }, 
+        {
+            "id": 9,
+            "idCategoria": 1,
+            "name": "Brownie Fatia",
+            "descripition": "Fatia de Brownie com cobertura de brigadeiro",
+            "price": 8.90,
+            "image": ""
+        }, 
+        {
+            "id": 10,
+            "idCategoria": 1,
+            "name": "Trufado de Limão",
+            "descripition": "Ganache de chocolate meio amargo e mousse de limão 250 gramas",
+            "price": 12.00,
+            "image": ""
+        }, 
+        {
+            "id": 11,
+            "idCategoria": 2,
+            "name": "A la minuta de carne",
+            "descripition": "Bife, arroz, feijão, fritas, ovo e salada",
+            "price": 29.00,
+            "image": ""
+        },
+        {
+            "id": 12,
+            "idCategoria": 2,
+            "name": "Xis Salada",
+            "descripition": "Pão 120g, hambúrguer, tomate, alface, milho, ervilha, queijo, ovo e maionese",
+            "price": 18.90,
+            "image": ""
+        },
+        {
+            "id": 13,
+            "idCategoria": 2,
+            "name": "Pizza Média Calabresa",
+            "descripition": "Pizza Média de Calabresa - 6 Pedaços",
+            "price": 30.50,
+            "image": ""
+        }, 
+        {
+            "id": 14,
+            "idCategoria": 2,
+            "name": "Pizza Grande Calabresa",
+            "descripition": "Pizza Grande de Calabresa - 9 Pedaços",
+            "price": 55.50,
+            "image": ""
+        },
+        {
+            "id": 15,
+            "idCategoria": 2,
+            "name": "Anéis de Cebola",
+            "descripition": "Anéis de Cebola - 12 unidades",
+            "price": 20.00,
+            "image": ""
+        },  
+        {
+            "id": 16,
+            "idCategoria": 2,
+            "name": "Porção de Fritas",
+            "descripition": "Porção de Batatas Fritas 400g",
+            "price": 20.00,
+            "image": ""
+        },  
+        {
+            "id": 17,
+            "idCategoria": 2,
+            "name": "Polenta Frita",
+            "descripition": "Polenta Frita 250g",
+            "price": 20.00,
+            "image": ""
+        }
+    ]
+}
